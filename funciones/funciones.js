@@ -1,7 +1,7 @@
 simplyCountdown('#temporizador', {
-    year: 2023, // required
-    month: 7,// required
-    day: 15, // required
+    year: 2024, // required
+    month: 1,// required
+    day: 5, // required
     hours: 21, // Default is 0 [0-23] integer
     minutes: 0, // Default is 0 [0-59] integer
     seconds: 0, // Default is 0 [0-59] integer
